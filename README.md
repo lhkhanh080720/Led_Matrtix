@@ -23,11 +23,11 @@ Build a led matrix to display user requirements (title, month/quarter/year, reve
 - Process data when received from the user's web.
 
 
-**Code Arduino Realtime (địa chỉ trong I2C: 8)**: [link code][3]
+**Code Arduino Realtime (address in I2C: 8)**: [link code][3]
 - Receive and process data.
 - Display on (2x3) Led Matrix.
 
-**Code Arduino Title    (địa chỉ trong I2C: 1)**: [link code][4]
+**Code Arduino Title    (address in I2C: 1)**: [link code][4]
 - Receive and process data.
 - Display on (1x3) Led Matrix.
 
@@ -40,8 +40,8 @@ Build a led matrix to display user requirements (title, month/quarter/year, reve
 #### Web UI
 ![example1](Images/pic6.png)
 
-[1]: <>
-[2]: <>
-[3]: <>
-[4]: <>
+[1]: <https://github.com/lhkhanh080720/Led_Matrtix/blob/main/Code/Code%20Node-Red.docx>
+[2]: <https://github.com/lhkhanh080720/Led_Matrtix/blob/main/Code/esp8266wifi.ino>
+[3]: <https://github.com/lhkhanh080720/Led_Matrtix/blob/main/Code/arduinorealtime.ino>
+[4]: <https://github.com/lhkhanh080720/Led_Matrtix/blob/main/Code/arduinotieude.ino>
 
